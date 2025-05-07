@@ -27,6 +27,15 @@
 
 # Visual Studio cache directory
 .vs/
+*.csproj
+*.sln
+*.unitypackage
+
+# Ignore large binary files
+*.dll
+*.dylib
+*.so
+
 
 # Gradle cache directory
 .gradle/
